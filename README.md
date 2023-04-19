@@ -1,8 +1,4 @@
-# Ping-Pong
 
-
-
-Overall, 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
